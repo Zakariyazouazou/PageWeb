@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PageWeb/static/css/main.8d307cc7.css",
+    "main.js": "/PageWeb/static/js/main.6a2f7934.js",
+    "static/media/ai.png": "/PageWeb/static/media/ai.ac6b9d57d37f1b6112f9.png",
+    "static/media/blog03.jpg": "/PageWeb/static/media/blog03.b503c7a7dd5e289e61b5.jpg",
+    "static/media/blog01.jpg": "/PageWeb/static/media/blog01.29c0a788c2d067da75ed.jpg",
+    "static/media/possibility.png": "/PageWeb/static/media/possibility.4fb2521a5a76f2b140b4.png",
+    "static/media/blog04.jpg": "/PageWeb/static/media/blog04.fbb70faf20f1a4076272.jpg",
+    "static/media/blog05.jpg": "/PageWeb/static/media/blog05.40e7cb2d147494fbf4c5.jpg",
+    "static/media/blog02.jpg": "/PageWeb/static/media/blog02.e679d02c860011890f79.jpg",
+    "static/media/people.png": "/PageWeb/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/PageWeb/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/PageWeb/index.html",
+    "main.8d307cc7.css.map": "/PageWeb/static/css/main.8d307cc7.css.map",
+    "main.6a2f7934.js.map": "/PageWeb/static/js/main.6a2f7934.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d307cc7.css",
+    "static/js/main.6a2f7934.js"
+  ]
+}
